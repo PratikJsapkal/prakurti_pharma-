@@ -75,14 +75,14 @@ export default function Footer() {
             {/* Phone */}
             <a
               href={footerData.contact.phone.href}
-              className="flex items-center gap-2 text-xs text-[#16885f]"
+              className="flex items-center gap-2 text-s text-[#16885f]"
             >
               <span>☎</span>
               <span>{footerData.contact.phone.label}</span>
             </a>
 
             {/* Social */}
-            <div className="flex items-center gap-4 text-[#16885f]">
+            <div className="flex items-center gap-4  text-2xl text-[#16885f]">
               <a
                 href={footerData.contact.social.instagram.href}
                 aria-label={footerData.contact.social.instagram.label}

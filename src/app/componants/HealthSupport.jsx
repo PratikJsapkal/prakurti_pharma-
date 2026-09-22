@@ -271,7 +271,7 @@ export default function HealthSupport() {
                     </p>
 
                     <a
-                      href="#contact"
+                      href="/contact"
                       className="mt-6 inline-flex items-center gap-2 text-[11px] font-semibold text-[#16885f]"
                     >
                       Explore wellness

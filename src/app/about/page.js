@@ -401,7 +401,7 @@ export default function AboutPage() {
             </div>
 
             <a
-              href="/#contact"
+              href="/contact"
               className="flex shrink-0 items-center justify-center gap-2 rounded-[9px] bg-white px-6 py-3 text-xs font-semibold text-[#202c27] transition-all hover:-translate-y-0.5 hover:bg-[#f2f8f5]"
             >
               Contact us

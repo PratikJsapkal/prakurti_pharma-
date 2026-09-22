@@ -1,4 +1,4 @@
-import footerData from "../data/footer.json";
+import footerData from "@/app/Data/footer.json";
 
 export default function Footer() {
   return (

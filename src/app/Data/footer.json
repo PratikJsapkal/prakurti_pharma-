@@ -1,0 +1,37 @@
+{
+  "brand": {
+    "name": "Prakruti Pharma",
+    "tagline": "Always There. Always Genuine."
+  },
+  "visit": {
+    "title": "Visit",
+    "address": "Office no. 5, Cabin no. 4 and 5, Jain Chamber 1st floor, S.V. Road Bandra (W), Mumbai - 400050"
+  },
+  "hours": {
+    "title": "Hours",
+    "weekdays": "Mon–Sat: 8 AM – 9 PM",
+    "sunday": "Sunday: 9 AM – 5 PM"
+  },
+  "contact": {
+    "title": "Stay connected",
+    "phone": {
+      "label": "9021981286",
+      "href": "tel:+919021981286"
+    },
+    "social": {
+      "instagram": {
+        "label": "Instagram",
+        "href": "#"
+      },
+      "facebook": {
+        "label": "Facebook",
+        "href": "#"
+      },
+      "email": {
+        "label": "Email",
+        "href": "mailto:hello@example.com"
+      }
+    }
+  },
+  "copyright": "© 2026 Prakruti Pharma. All rights reserved."
+}

@@ -1,0 +1,22 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "rating": 5,
+      "review": "Perfect place to get psych meds from.. they have the rarest meds available. I like that they make accessing psych meds easier for patients as well as the doctors.",
+      "name": "Dr. Sneha Kalmipuria"
+    },
+    {
+      "id": 2,
+      "rating": 5,
+      "review": "Very cooperative pharmacist. Will go out of the way to make available any medication which doctor has prescribed. Specialises in Psychiatry meds.",
+      "name": "Anuja Bendre"
+    },
+    {
+      "id": 3,
+      "rating": 5,
+      "review": "All medicines are available and you can get within a time line.",
+      "name": "Navanit Tiwari"
+    }
+  ]
+}
